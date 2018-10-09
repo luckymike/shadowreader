@@ -28,8 +28,8 @@ Support for replaying logs from these load balancers:
 
 To get started, see:
 
-1. [Easy live replay demo with necessary CloudFormation included](docs/demo_live_replay.md)
-2. [Guide for setting up past replay](docs/setup.md)
+1. [Batteries included demo for trying out live replay](docs/demo_live_replay.md)
+2. [More in-depth guide for setting up past replay](docs/setup.md)
 
 ## Case study
 

@@ -13,7 +13,7 @@ This demo will walk you through in setting up ShadowReader to parse those logs t
 
 ```
 Deploy the stack:
-curl -O https://github.com/edmunds/shadowreader/blob/master/docs/demo-cf.yml?raw=true
+curl https://raw.githubusercontent.com/edmunds/shadowreader/live-replay-demo/docs/demo-cf.yml --output demo-cf.yml
 aws cloudformation deploy --stack-name sr-demo  --template-file demo-cf.yaml --region us-east-1
 ```
 

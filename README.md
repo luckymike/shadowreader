@@ -26,7 +26,10 @@ Support for replaying logs from these load balancers:
 
 ## Getting started
 
-To get started, see the [walkthrough](docs/setup.md)
+To get started, see:
+
+1. [Easy live replay demo with necessary CloudFormation included](docs/demo_live_replay.md)
+2. [Guide for setting up past replay](docs/setup.md)
 
 ## Case study
 
